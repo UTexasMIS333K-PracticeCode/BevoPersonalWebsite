@@ -1,0 +1,37 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = fa22BevoPersonalSite
+build_property.RootNamespace = fa22BevoPersonalSite
+build_property.ProjectDir = /Users/rkh393/Library/CloudStorage/Box-Box/333K Shared/3 - Project & HW Rotations/A. Project & HWs/HW1/BevoPersonalWebsite/fa22BevoPersonalSite/fa22BevoPersonalSite/
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/rkh393/Library/CloudStorage/Box-Box/333K Shared/3 - Project & HW Rotations/A. Project & HWs/HW1/BevoPersonalWebsite/fa22BevoPersonalSite/fa22BevoPersonalSite
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/rkh393/Library/CloudStorage/Box-Box/333K Shared/3 - Project & HW Rotations/A. Project & HWs/HW1/BevoPersonalWebsite/fa22BevoPersonalSite/fa22BevoPersonalSite/Views/Home/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9BYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/rkh393/Library/CloudStorage/Box-Box/333K Shared/3 - Project & HW Rotations/A. Project & HWs/HW1/BevoPersonalWebsite/fa22BevoPersonalSite/fa22BevoPersonalSite/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/rkh393/Library/CloudStorage/Box-Box/333K Shared/3 - Project & HW Rotations/A. Project & HWs/HW1/BevoPersonalWebsite/fa22BevoPersonalSite/fa22BevoPersonalSite/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/rkh393/Library/CloudStorage/Box-Box/333K Shared/3 - Project & HW Rotations/A. Project & HWs/HW1/BevoPersonalWebsite/fa22BevoPersonalSite/fa22BevoPersonalSite/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/rkh393/Library/CloudStorage/Box-Box/333K Shared/3 - Project & HW Rotations/A. Project & HWs/HW1/BevoPersonalWebsite/fa22BevoPersonalSite/fa22BevoPersonalSite/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

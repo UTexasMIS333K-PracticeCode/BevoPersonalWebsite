@@ -1,0 +1,60 @@
+C:/Users/rkh19/Box/333K/3 - Homeworks/HW0/BevoPersonalWebsite/fa22BevoPersonalSite/fa22BevoPersonalSite/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/rkh19/Box/333K/3 - Homeworks/HW0/BevoPersonalWebsite/fa22BevoPersonalSite/fa22BevoPersonalSite/bin/Debug/net6.0/appsettings.json
+C:/Users/rkh19/Box/333K/3 - Homeworks/HW0/BevoPersonalWebsite/fa22BevoPersonalSite/fa22BevoPersonalSite/bin/Debug/net6.0/libman.json
+C:/Users/rkh19/Box/333K/3 - Homeworks/HW0/BevoPersonalWebsite/fa22BevoPersonalSite/fa22BevoPersonalSite/bin/Debug/net6.0/fa22BevoPersonalSite.staticwebassets.runtime.json
+C:/Users/rkh19/Box/333K/3 - Homeworks/HW0/BevoPersonalWebsite/fa22BevoPersonalSite/fa22BevoPersonalSite/bin/Debug/net6.0/fa22BevoPersonalSite.exe
+C:/Users/rkh19/Box/333K/3 - Homeworks/HW0/BevoPersonalWebsite/fa22BevoPersonalSite/fa22BevoPersonalSite/bin/Debug/net6.0/fa22BevoPersonalSite.deps.json
+C:/Users/rkh19/Box/333K/3 - Homeworks/HW0/BevoPersonalWebsite/fa22BevoPersonalSite/fa22BevoPersonalSite/bin/Debug/net6.0/fa22BevoPersonalSite.runtimeconfig.json
+C:/Users/rkh19/Box/333K/3 - Homeworks/HW0/BevoPersonalWebsite/fa22BevoPersonalSite/fa22BevoPersonalSite/bin/Debug/net6.0/fa22BevoPersonalSite.dll
+C:/Users/rkh19/Box/333K/3 - Homeworks/HW0/BevoPersonalWebsite/fa22BevoPersonalSite/fa22BevoPersonalSite/bin/Debug/net6.0/fa22BevoPersonalSite.pdb
+C:/Users/rkh19/Box/333K/3 - Homeworks/HW0/BevoPersonalWebsite/fa22BevoPersonalSite/fa22BevoPersonalSite/obj/Debug/net6.0/fa22BevoPersonalSite.csproj.AssemblyReference.cache
+C:/Users/rkh19/Box/333K/3 - Homeworks/HW0/BevoPersonalWebsite/fa22BevoPersonalSite/fa22BevoPersonalSite/obj/Debug/net6.0/fa22BevoPersonalSite.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/rkh19/Box/333K/3 - Homeworks/HW0/BevoPersonalWebsite/fa22BevoPersonalSite/fa22BevoPersonalSite/obj/Debug/net6.0/fa22BevoPersonalSite.AssemblyInfoInputs.cache
+C:/Users/rkh19/Box/333K/3 - Homeworks/HW0/BevoPersonalWebsite/fa22BevoPersonalSite/fa22BevoPersonalSite/obj/Debug/net6.0/fa22BevoPersonalSite.AssemblyInfo.cs
+C:/Users/rkh19/Box/333K/3 - Homeworks/HW0/BevoPersonalWebsite/fa22BevoPersonalSite/fa22BevoPersonalSite/obj/Debug/net6.0/fa22BevoPersonalSite.csproj.CoreCompileInputs.cache
+C:/Users/rkh19/Box/333K/3 - Homeworks/HW0/BevoPersonalWebsite/fa22BevoPersonalSite/fa22BevoPersonalSite/obj/Debug/net6.0/fa22BevoPersonalSite.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/rkh19/Box/333K/3 - Homeworks/HW0/BevoPersonalWebsite/fa22BevoPersonalSite/fa22BevoPersonalSite/obj/Debug/net6.0/fa22BevoPersonalSite.RazorAssemblyInfo.cache
+C:/Users/rkh19/Box/333K/3 - Homeworks/HW0/BevoPersonalWebsite/fa22BevoPersonalSite/fa22BevoPersonalSite/obj/Debug/net6.0/fa22BevoPersonalSite.RazorAssemblyInfo.cs
+C:/Users/rkh19/Box/333K/3 - Homeworks/HW0/BevoPersonalWebsite/fa22BevoPersonalSite/fa22BevoPersonalSite/obj/Debug/net6.0/staticwebassets/msbuild.fa22BevoPersonalSite.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/rkh19/Box/333K/3 - Homeworks/HW0/BevoPersonalWebsite/fa22BevoPersonalSite/fa22BevoPersonalSite/obj/Debug/net6.0/staticwebassets/msbuild.build.fa22BevoPersonalSite.props
+C:/Users/rkh19/Box/333K/3 - Homeworks/HW0/BevoPersonalWebsite/fa22BevoPersonalSite/fa22BevoPersonalSite/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.fa22BevoPersonalSite.props
+C:/Users/rkh19/Box/333K/3 - Homeworks/HW0/BevoPersonalWebsite/fa22BevoPersonalSite/fa22BevoPersonalSite/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.fa22BevoPersonalSite.props
+C:/Users/rkh19/Box/333K/3 - Homeworks/HW0/BevoPersonalWebsite/fa22BevoPersonalSite/fa22BevoPersonalSite/obj/Debug/net6.0/staticwebassets.pack.json
+C:/Users/rkh19/Box/333K/3 - Homeworks/HW0/BevoPersonalWebsite/fa22BevoPersonalSite/fa22BevoPersonalSite/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/rkh19/Box/333K/3 - Homeworks/HW0/BevoPersonalWebsite/fa22BevoPersonalSite/fa22BevoPersonalSite/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/rkh19/Box/333K/3 - Homeworks/HW0/BevoPersonalWebsite/fa22BevoPersonalSite/fa22BevoPersonalSite/obj/Debug/net6.0/scopedcss/bundle/fa22BevoPersonalSite.styles.css
+C:/Users/rkh19/Box/333K/3 - Homeworks/HW0/BevoPersonalWebsite/fa22BevoPersonalSite/fa22BevoPersonalSite/obj/Debug/net6.0/fa22BevoPersonalSite.dll
+C:/Users/rkh19/Box/333K/3 - Homeworks/HW0/BevoPersonalWebsite/fa22BevoPersonalSite/fa22BevoPersonalSite/obj/Debug/net6.0/refint/fa22BevoPersonalSite.dll
+C:/Users/rkh19/Box/333K/3 - Homeworks/HW0/BevoPersonalWebsite/fa22BevoPersonalSite/fa22BevoPersonalSite/obj/Debug/net6.0/fa22BevoPersonalSite.pdb
+C:/Users/rkh19/Box/333K/3 - Homeworks/HW0/BevoPersonalWebsite/fa22BevoPersonalSite/fa22BevoPersonalSite/obj/Debug/net6.0/fa22BevoPersonalSite.genruntimeconfig.cache
+C:/Users/rkh19/Box/333K/3 - Homeworks/HW0/BevoPersonalWebsite/fa22BevoPersonalSite/fa22BevoPersonalSite/obj/Debug/net6.0/ref/fa22BevoPersonalSite.dll
+/Users/rkh393/Library/CloudStorage/Box-Box/333K Shared/3 - Project & HW Rotations/A. Project & HWs/HW1/BevoPersonalWebsite/fa22BevoPersonalSite/fa22BevoPersonalSite/bin/Debug/net6.0/appsettings.Development.json
+/Users/rkh393/Library/CloudStorage/Box-Box/333K Shared/3 - Project & HW Rotations/A. Project & HWs/HW1/BevoPersonalWebsite/fa22BevoPersonalSite/fa22BevoPersonalSite/bin/Debug/net6.0/appsettings.json
+/Users/rkh393/Library/CloudStorage/Box-Box/333K Shared/3 - Project & HW Rotations/A. Project & HWs/HW1/BevoPersonalWebsite/fa22BevoPersonalSite/fa22BevoPersonalSite/bin/Debug/net6.0/libman.json
+/Users/rkh393/Library/CloudStorage/Box-Box/333K Shared/3 - Project & HW Rotations/A. Project & HWs/HW1/BevoPersonalWebsite/fa22BevoPersonalSite/fa22BevoPersonalSite/bin/Debug/net6.0/fa22BevoPersonalSite.staticwebassets.runtime.json
+/Users/rkh393/Library/CloudStorage/Box-Box/333K Shared/3 - Project & HW Rotations/A. Project & HWs/HW1/BevoPersonalWebsite/fa22BevoPersonalSite/fa22BevoPersonalSite/bin/Debug/net6.0/fa22BevoPersonalSite
+/Users/rkh393/Library/CloudStorage/Box-Box/333K Shared/3 - Project & HW Rotations/A. Project & HWs/HW1/BevoPersonalWebsite/fa22BevoPersonalSite/fa22BevoPersonalSite/bin/Debug/net6.0/fa22BevoPersonalSite.deps.json
+/Users/rkh393/Library/CloudStorage/Box-Box/333K Shared/3 - Project & HW Rotations/A. Project & HWs/HW1/BevoPersonalWebsite/fa22BevoPersonalSite/fa22BevoPersonalSite/bin/Debug/net6.0/fa22BevoPersonalSite.runtimeconfig.json
+/Users/rkh393/Library/CloudStorage/Box-Box/333K Shared/3 - Project & HW Rotations/A. Project & HWs/HW1/BevoPersonalWebsite/fa22BevoPersonalSite/fa22BevoPersonalSite/bin/Debug/net6.0/fa22BevoPersonalSite.dll
+/Users/rkh393/Library/CloudStorage/Box-Box/333K Shared/3 - Project & HW Rotations/A. Project & HWs/HW1/BevoPersonalWebsite/fa22BevoPersonalSite/fa22BevoPersonalSite/bin/Debug/net6.0/fa22BevoPersonalSite.pdb
+/Users/rkh393/Library/CloudStorage/Box-Box/333K Shared/3 - Project & HW Rotations/A. Project & HWs/HW1/BevoPersonalWebsite/fa22BevoPersonalSite/fa22BevoPersonalSite/obj/Debug/net6.0/fa22BevoPersonalSite.csproj.AssemblyReference.cache
+/Users/rkh393/Library/CloudStorage/Box-Box/333K Shared/3 - Project & HW Rotations/A. Project & HWs/HW1/BevoPersonalWebsite/fa22BevoPersonalSite/fa22BevoPersonalSite/obj/Debug/net6.0/fa22BevoPersonalSite.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rkh393/Library/CloudStorage/Box-Box/333K Shared/3 - Project & HW Rotations/A. Project & HWs/HW1/BevoPersonalWebsite/fa22BevoPersonalSite/fa22BevoPersonalSite/obj/Debug/net6.0/fa22BevoPersonalSite.AssemblyInfoInputs.cache
+/Users/rkh393/Library/CloudStorage/Box-Box/333K Shared/3 - Project & HW Rotations/A. Project & HWs/HW1/BevoPersonalWebsite/fa22BevoPersonalSite/fa22BevoPersonalSite/obj/Debug/net6.0/fa22BevoPersonalSite.AssemblyInfo.cs
+/Users/rkh393/Library/CloudStorage/Box-Box/333K Shared/3 - Project & HW Rotations/A. Project & HWs/HW1/BevoPersonalWebsite/fa22BevoPersonalSite/fa22BevoPersonalSite/obj/Debug/net6.0/fa22BevoPersonalSite.csproj.CoreCompileInputs.cache
+/Users/rkh393/Library/CloudStorage/Box-Box/333K Shared/3 - Project & HW Rotations/A. Project & HWs/HW1/BevoPersonalWebsite/fa22BevoPersonalSite/fa22BevoPersonalSite/obj/Debug/net6.0/fa22BevoPersonalSite.MvcApplicationPartsAssemblyInfo.cache
+/Users/rkh393/Library/CloudStorage/Box-Box/333K Shared/3 - Project & HW Rotations/A. Project & HWs/HW1/BevoPersonalWebsite/fa22BevoPersonalSite/fa22BevoPersonalSite/obj/Debug/net6.0/fa22BevoPersonalSite.RazorAssemblyInfo.cache
+/Users/rkh393/Library/CloudStorage/Box-Box/333K Shared/3 - Project & HW Rotations/A. Project & HWs/HW1/BevoPersonalWebsite/fa22BevoPersonalSite/fa22BevoPersonalSite/obj/Debug/net6.0/fa22BevoPersonalSite.RazorAssemblyInfo.cs
+/Users/rkh393/Library/CloudStorage/Box-Box/333K Shared/3 - Project & HW Rotations/A. Project & HWs/HW1/BevoPersonalWebsite/fa22BevoPersonalSite/fa22BevoPersonalSite/obj/Debug/net6.0/staticwebassets/msbuild.fa22BevoPersonalSite.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/rkh393/Library/CloudStorage/Box-Box/333K Shared/3 - Project & HW Rotations/A. Project & HWs/HW1/BevoPersonalWebsite/fa22BevoPersonalSite/fa22BevoPersonalSite/obj/Debug/net6.0/staticwebassets/msbuild.build.fa22BevoPersonalSite.props
+/Users/rkh393/Library/CloudStorage/Box-Box/333K Shared/3 - Project & HW Rotations/A. Project & HWs/HW1/BevoPersonalWebsite/fa22BevoPersonalSite/fa22BevoPersonalSite/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.fa22BevoPersonalSite.props
+/Users/rkh393/Library/CloudStorage/Box-Box/333K Shared/3 - Project & HW Rotations/A. Project & HWs/HW1/BevoPersonalWebsite/fa22BevoPersonalSite/fa22BevoPersonalSite/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.fa22BevoPersonalSite.props
+/Users/rkh393/Library/CloudStorage/Box-Box/333K Shared/3 - Project & HW Rotations/A. Project & HWs/HW1/BevoPersonalWebsite/fa22BevoPersonalSite/fa22BevoPersonalSite/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/rkh393/Library/CloudStorage/Box-Box/333K Shared/3 - Project & HW Rotations/A. Project & HWs/HW1/BevoPersonalWebsite/fa22BevoPersonalSite/fa22BevoPersonalSite/obj/Debug/net6.0/staticwebassets.build.json
+/Users/rkh393/Library/CloudStorage/Box-Box/333K Shared/3 - Project & HW Rotations/A. Project & HWs/HW1/BevoPersonalWebsite/fa22BevoPersonalSite/fa22BevoPersonalSite/obj/Debug/net6.0/staticwebassets.development.json
+/Users/rkh393/Library/CloudStorage/Box-Box/333K Shared/3 - Project & HW Rotations/A. Project & HWs/HW1/BevoPersonalWebsite/fa22BevoPersonalSite/fa22BevoPersonalSite/obj/Debug/net6.0/scopedcss/bundle/fa22BevoPersonalSite.styles.css
+/Users/rkh393/Library/CloudStorage/Box-Box/333K Shared/3 - Project & HW Rotations/A. Project & HWs/HW1/BevoPersonalWebsite/fa22BevoPersonalSite/fa22BevoPersonalSite/obj/Debug/net6.0/fa22BevoPersonalSite.dll
+/Users/rkh393/Library/CloudStorage/Box-Box/333K Shared/3 - Project & HW Rotations/A. Project & HWs/HW1/BevoPersonalWebsite/fa22BevoPersonalSite/fa22BevoPersonalSite/obj/Debug/net6.0/refint/fa22BevoPersonalSite.dll
+/Users/rkh393/Library/CloudStorage/Box-Box/333K Shared/3 - Project & HW Rotations/A. Project & HWs/HW1/BevoPersonalWebsite/fa22BevoPersonalSite/fa22BevoPersonalSite/obj/Debug/net6.0/fa22BevoPersonalSite.pdb
+/Users/rkh393/Library/CloudStorage/Box-Box/333K Shared/3 - Project & HW Rotations/A. Project & HWs/HW1/BevoPersonalWebsite/fa22BevoPersonalSite/fa22BevoPersonalSite/obj/Debug/net6.0/fa22BevoPersonalSite.genruntimeconfig.cache
+/Users/rkh393/Library/CloudStorage/Box-Box/333K Shared/3 - Project & HW Rotations/A. Project & HWs/HW1/BevoPersonalWebsite/fa22BevoPersonalSite/fa22BevoPersonalSite/obj/Debug/net6.0/ref/fa22BevoPersonalSite.dll

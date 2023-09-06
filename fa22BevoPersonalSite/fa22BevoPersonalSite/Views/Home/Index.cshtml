@@ -1,0 +1,42 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1 class="text-center">Welcome to my Home Page</h1>
+
+<h4 class="text-center">My name is Bevo and I am the mascot for UT!</h4>
+<div class="align-self-sm-center">
+    <img class="w-50 h-auto rounded mx-auto d-block" 
+         src="~/images/bevo.jpg" alt="Big longhorn looking cute in the field" title="Bevo in a field looking happy" />
+</div>
+<br />
+<div class="text-center">
+    <div class="btn-group-lg">
+        <a asp-action="About" class="btn btn-primary">About Me</a>
+        <a asp-action="Resume" class="btn btn-primary">Bevo's Resume</a>
+    </div>
+</div>
+<hr class="hr-danger" />
+
+<!--TODO:  Add a table of Bevo's classes here!-->
+<!--HINT: Here's a good website for some help on tables: https://www.w3schools.com/html/html_tables.asp-->
+
+
+<p>My email address is <a href="mailto:bevo@example.com?subject=MIS 333K">bevo@example.com</a>. I'm a cow, so I probably won't answer your mail.</p>
+<br />
+<br />
+<h2 class="text-center">TED Talk</h2>
+<p>Cows and people really can get along.  Here's a great talk from Jane Goodall to help explain how we can live together.</p>
+<div class="container">
+    <div class="row">
+        <div class="col-2"></div>
+        <div class="col-8">
+            <div style="max-width:854px">
+                    <div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/jane_goodall_how_humans_and_animals_can_live_together" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div>
+                </div>
+            </div>
+        </div>
+        <div class="col-2"></div>
+    </div>
+</div>

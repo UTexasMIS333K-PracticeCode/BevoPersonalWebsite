@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{0A24DE56-CAB2-488F-9A1A-B8179D0A2D41}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="fa22BevoPersonalSite/Controllers/HomeController.cs">
+    <Files>
+      <File FileName="fa22BevoPersonalSite/Controllers/HomeController.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="fa22BevoPersonalSite" expanded="True">
+            <Node name="fa22BevoPersonalSite" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="HomeController.cs" selected="True" />
+              </Node>
+              <Node name="Views" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.fa22BevoPersonalSite PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
