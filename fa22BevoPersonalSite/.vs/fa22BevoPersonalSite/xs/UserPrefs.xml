@@ -1,7 +1,11 @@
 ﻿<Properties StartupConfiguration="{0A24DE56-CAB2-488F-9A1A-B8179D0A2D41}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="fa22BevoPersonalSite/Controllers/HomeController.cs">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="fa22BevoPersonalSite/fa22BevoPersonalSite.csproj">
     <Files>
-      <File FileName="fa22BevoPersonalSite/Controllers/HomeController.cs" Line="1" Column="1" />
+      <File FileName="fa22BevoPersonalSite/Controllers/HomeController.cs" />
+      <File FileName="fa22BevoPersonalSite/Views/Home/About.cshtml" />
+      <File FileName="fa22BevoPersonalSite/Views/Home/Index.cshtml" />
+      <File FileName="fa22BevoPersonalSite/fa22BevoPersonalSite.csproj" Line="4" Column="26" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -11,18 +15,19 @@
               <Node name="Controllers" expanded="True">
                 <Node name="HomeController.cs" selected="True" />
               </Node>
-              <Node name="Views" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+              </Node>
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.fa22BevoPersonalSite PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.fa22BevoPersonalSite PreferredExecutionTarget="/Applications/Google Chrome.app" />
 </Properties>
